@@ -1,12 +1,18 @@
 
- ### v2.2.0 - 2019-03-18 
+ ### v2.3.0 - 2019-04-04 
+ **Changes:** 
+ * NEW Header/Footer builder
+* Compatibility with the Header, Footer & Blocks for Elementor plugin
+* New option to allow disabling of the custom Gutenberg integration
+* Updated the tag list with the newly added tags
+  ### v2.2.0 - 2019-03-18 
  **Changes:** 
  * New Original starter site created in the new Gutenberg editor for WordPress 5 users
 * Improved onboarding page layout
 * Compatibility with the Neve Hooks plugin
 * WPML compatibility
 * Update Contact us with the correct link
- 
+  
  ### v2.1.0 - 2019-03-07 
  **Changes:** 
  * Two newly added Elementor Starter Sites
